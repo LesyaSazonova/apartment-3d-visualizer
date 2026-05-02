@@ -1,0 +1,10 @@
+# Apartment 3D Furniture Catalog
+VERSION 1
+
+bf6812e6-b7d1-4a82-9a8a-c081dd005cfc:Furniture/Ванная:Ванная
+20f017e9-7857-4f27-86f0-d06b40c46794:Furniture/Гостиная:Гостиная
+f723b442-a903-4222-a016-5c8b781538ac:Furniture/Детская:Детская
+d8f10005-4043-4b6b-9750-37f0edb255c8:Furniture/Кабинет:Кабинет
+281fabc7-2caa-481d-ac68-ed1852639ccb:Furniture/Кухня:Кухня
+d90a040f-eefe-4f93-8eeb-fc377d7caf02:Furniture/Прихожая:Прихожая
+da49c9c0-40da-46f8-874d-4b1511979657:Furniture/Спальня:Спальня
